@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shivam 
-- 👀 I’m interested in Internship or Full time
+- 👀 I’m interested in Internship or Full time in Data Science
 - 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me pratapshivam777@gmail.com
